@@ -81,3 +81,11 @@ body .hide { display: none; }
   .row hr { align-self: center; }
   .row hr.col-2 { vertical-align: middle; width: calc(48.5% - 2px); }
   .row hr.col-3 { vertical-align: middle; width: calc(31.3% - 2px); } }
+
+fieldset li label {
+    font-size: 24px;
+    text-align: left;
+    margin: 0 10px 5px 0;
+    line-height: 17px;
+    color: #333;
+}
